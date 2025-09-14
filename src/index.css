@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* 额外的全局样式，如果需要的话 */
 html,
 body {
   height: 100%; /* 确保满屏 */
